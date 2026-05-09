@@ -68,3 +68,13 @@ pip install -r requirements.txt
 npm install
 npm start
 ```
+### Future Improvements:
+
+Barcode scanning integration
+Personalized dietary preferences
+Better OCR accuracy for low-quality packaging
+Expanded global ingredient datasets
+AI-assisted health insights
+
+## Disclaimer
+This project is intended for educational and awareness purposes only and should not be considered medical advice.
